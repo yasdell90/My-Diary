@@ -1,0 +1,14 @@
+C:\Users\Developer\Documents\Visual Studio 2015\Projects\Test\Animal\bin\Debug\Animal.exe.config
+C:\Users\Developer\Documents\Visual Studio 2015\Projects\Test\Animal\bin\Debug\Animal.exe
+C:\Users\Developer\Documents\Visual Studio 2015\Projects\Test\Animal\bin\Debug\Animal.pdb
+C:\Users\Developer\Documents\Visual Studio 2015\Projects\Test\Animal\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Developer\Documents\Visual Studio 2015\Projects\Test\Animal\obj\Debug\Training.csprojResolveAssemblyReference.cache
+C:\Users\Developer\Documents\Visual Studio 2015\Projects\Test\Animal\obj\Debug\Animal.exe
+C:\Users\Developer\Documents\Visual Studio 2015\Projects\Test\Animal\obj\Debug\Animal.pdb
+C:\Users\Developer\Documents\Visual Studio 2015\Projects\Trainig\Animal\bin\Debug\Animal.exe.config
+C:\Users\Developer\Documents\Visual Studio 2015\Projects\Trainig\Animal\obj\Debug\Animal.exe
+C:\Users\Developer\Documents\Visual Studio 2015\Projects\Trainig\Animal\obj\Debug\Animal.pdb
+C:\Users\Developer\Documents\Visual Studio 2015\Projects\Trainig\Animal\bin\Debug\Animal.exe
+C:\Users\Developer\Documents\Visual Studio 2015\Projects\Trainig\Animal\bin\Debug\Animal.pdb
+C:\Users\Developer\Documents\Visual Studio 2015\Projects\Trainig\Animal\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Developer\Documents\Visual Studio 2015\Projects\Trainig\Animal\obj\Debug\Training.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+c:\users\developer\documents\visual studio 2015\Projects\Test\Animal\bin\Debug\Animal.exe.config
+c:\users\developer\documents\visual studio 2015\Projects\Test\Animal\bin\Debug\Animal.exe
+c:\users\developer\documents\visual studio 2015\Projects\Test\Animal\bin\Debug\Animal.pdb
+c:\users\developer\documents\visual studio 2015\Projects\Test\Animal\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\developer\documents\visual studio 2015\Projects\Test\Animal\obj\Debug\Animal.csprojResolveAssemblyReference.cache
+c:\users\developer\documents\visual studio 2015\Projects\Test\Animal\obj\Debug\Animal.exe
+c:\users\developer\documents\visual studio 2015\Projects\Test\Animal\obj\Debug\Animal.pdb
